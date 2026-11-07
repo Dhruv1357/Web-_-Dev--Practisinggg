@@ -12,7 +12,7 @@ function result()
             word++;
         }
     }
-    document.querySelector(".words").innerText=word+1;
+   document.querySelector(".words").innerText=word+1;
 
     for(var i=0;i<=text.length - 1;i++)
     {
